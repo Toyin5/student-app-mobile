@@ -1,9 +1,10 @@
 {
   "expo": {
-    "name": "student-ams-app-mobile",
-    "slug": "student-ams-app-mobile",
+    "name": "ams-student-app",
+    "slug": "ams-student-app",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner":"toyin50",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
